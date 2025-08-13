@@ -4,6 +4,6 @@ An extensible and highly modular bot framework -- Successor of Colleen
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/Shirakumo/maiden.git |
-| commit  | aa14e98                                     |
+| commit  | d3b56af                                     |
 | systems | maiden                                      |
 |---------+---------------------------------------------|
